@@ -3,3 +3,6 @@
 *.nes.map
 *.dbg
 *.lst
+.DS_Store
+*.o
+*.dep
